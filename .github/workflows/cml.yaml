@@ -1,4 +1,5 @@
 name: model-wine-quality
+# This is a trigger that anytime the repo received a push, it triggers this action fole
 on: [push]
 jobs:
   run:
